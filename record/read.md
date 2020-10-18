@@ -119,7 +119,7 @@ cv2.__version__
 
 因为我编译前把坑都填完了，所以编译了一次就成功了，开心。
 
-附一个简单的oython测试代码
+附一个简单的oython测试代码:https://github.com/zzpiv/raspberry-pie-and-opencv/blob/main/record/opencvtest.py
 
 
 
